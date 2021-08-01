@@ -1,0 +1,35 @@
+a:hover{
+    text-decoration: none;
+    background-color: transparent;                              /*This file is made by Pratik Das*/
+    color: #ededed
+}
+.item{
+    width: 22%;
+    display: block;
+    padding: 10px;
+    margin: 0px 23px 20px 0px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    float: left;
+    margin-left: 1%;
+}
+.thumb{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.capt{
+    color: #000;
+    padding: 0px 10px 10px;
+    font-weight: bold;                                                  /*This file is made by Pratik Das*/
+    text-align: center;
+}
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
